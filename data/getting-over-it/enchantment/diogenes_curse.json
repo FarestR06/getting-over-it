@@ -46,6 +46,7 @@
           "operation": "add_value"
         }
       }
-    ]
+    ],
+    "minecraft:prevent_armor_change": {}
   }
 }
