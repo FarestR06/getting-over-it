@@ -1,0 +1,51 @@
+{
+  "description": {
+    "text": "Curse of Diogenes"
+  },
+  "supported_items": "#minecraft:enchantable/leg_armor",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 25,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "armor"
+  ],
+  "effects": {
+    "minecraft:location_changed": [
+      {
+        "effect": {
+          "type": "minecraft:attribute",
+          "id": "getting-over-it:enchantment.pot_jump",
+          "attribute": "minecraft:generic.movement_speed",
+          "amount": -1,
+          "operation": "add_multiplied_base"
+        }
+      },
+      {
+        "effect": {
+          "type": "minecraft:attribute",
+          "id": "getting-over-it:enchantment.pot_jump",
+          "attribute": "minecraft:generic.jump_strength",
+          "amount": -1,
+          "operation": "add_multiplied_base"
+        }
+      },
+      {
+        "effect": {
+          "type": "minecraft:attribute",
+          "id": "getting-over-it:enchantment.pot_fall",
+          "attribute": "minecraft:generic.safe_fall_distance",
+          "amount": 512,
+          "operation": "add_value"
+        }
+      }
+    ]
+  }
+}

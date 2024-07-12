@@ -1,0 +1,2 @@
+give @p mace[item_name='{"text":"hamer"}',unbreakable={},enchantments={levels:{"getting-over-it:sledging":1},show_in_tooltip:false},enchantment_glint_override=false] 1
+give @p netherite_leggings[item_name='{"text":"pot"}',unbreakable={},enchantments={levels:{"getting-over-it:diogenes_curse":1},show_in_tooltip:false},enchantment_glint_override=false] 1

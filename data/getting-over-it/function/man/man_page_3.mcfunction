@@ -1,0 +1,2 @@
+tellraw @s {"bold":true,"color": "light_purple", "text": "The Pot!"}
+tellraw @s {"text": "The pot allows you to survive any fall! However, keep in mind that you can't move (like, at all) and it's virtually impossible to get out of."}
