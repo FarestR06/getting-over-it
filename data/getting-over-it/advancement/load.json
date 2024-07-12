@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "load": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "rewards": {
+      "function": "getting-over-it:init"
+    },
+    "sends_telemetry_event": false
+}
