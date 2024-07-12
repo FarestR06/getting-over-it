@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 48,
-    "description": "bennet fardy"
+    "supported_formats": [
+      34,
+      48
+    ],
+    "description": "with Bennet Foddy?"
   }
 }
