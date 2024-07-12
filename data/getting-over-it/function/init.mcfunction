@@ -1,2 +1,2 @@
-give @a mace[item_name='{"text":"hamer"}',unbreakable={},enchantments={levels:{"getting-over-it:sledging":1},show_in_tooltip:false},enchantment_glint_override=false] 1
-item replace entity @a armor.legs with netherite_leggings[item_name='{"text":"pot"}',unbreakable={},enchantments={levels:{"getting-over-it:diogenes_curse":1},show_in_tooltip:false},enchantment_glint_override=false,custom_model_data=1] 1
+give @a mace[item_name='{"text":"Sledge"}',unbreakable={},enchantments={levels:{"getting-over-it:sledging":1}},enchantment_glint_override=false] 1
+item replace entity @a armor.legs with netherite_leggings[rarity="epic",item_name='{"text":"Pot Leggings"}',unbreakable={},enchantments={levels:{"getting-over-it:diogenes_curse":1}},enchantment_glint_override=false,custom_model_data=1] 1
